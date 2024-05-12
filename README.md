@@ -1,4 +1,4 @@
-# Kollywood-Box-Office-analysis-and-prediction
+# Box Office Gold
 
 Analysing the impact of the Box Office Collection for a film based on the budget of the film, ratings and no. of centres released. 
 
